@@ -1,2 +1,2 @@
 # Blnd
-A modern approach to blind dating.
+Issue tracker.
