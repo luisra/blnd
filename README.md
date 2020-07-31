@@ -1,2 +1,1 @@
 # Blnd
-Issue tracker.
